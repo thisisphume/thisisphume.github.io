@@ -1,14 +1,5 @@
-# # Site settings
-# title: Freelancer
-# email: your-email@domain.com
-# url: https://github.com/jeromelachaud/freelancer-theme
-# description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-# keywords: "your keywords, separated by commas"
-# skills: "Web Developer - Graphic Artist - User Experience Designer"
-# meta_author: LastName FirstName
-
 # Site settings
-title: Phume Ngampornsukwadi
+title: thisisPhume
 email: thisisphume@gmail.com
 url: https://thisisphume.me/
 description: "Hi, this is Phume. I'm a data scientist."
@@ -31,7 +22,7 @@ contact: static
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
 disqus_shortname: myshortname
-
+g
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 18bc9c #80B3FF
@@ -42,28 +33,33 @@ color:
 # Footer settings
 footer:
   copyright: Phume Ngampornsukswadi
-  location: Contact
-  social: Social Media
-  credits: Location
+  location: Location
+  social: Around the Web
+  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: github-alt
+  # - title: twitter
+    # url: http://twitter.com/jekyllrb
+  # - title: facebook
+    # url:
+  # - title: stack-overflow
+    # url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket
+    # url: http://bitbucket.org/jekyll
+  - title: github
     url: https://github.com/thisisphume
   - title: linkedin
     url: https://www.linkedin.com/in/phumengam
-  - title: skype
-    url: https://join.skype.com/invite/A563zeYVThnk
 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 'Email: thisisphume [at] gmail.com'
-  - line: 'Tel. +1 647 581 9518' 
+  - line: Waterloo, Ontario, Canada
+  - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: '<a href="https://www.google.com/maps/place/Waterloo,+ON/@43.4821971,-80.6167592,12z/data=!3m1!4b1!4m5!3m4!1s0x882bf1565ffe672b:0x5037b28c7231d90!8m2!3d43.4642578!4d-80.5204096">Waterloo, Ontario, Canada</a>'
-
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
